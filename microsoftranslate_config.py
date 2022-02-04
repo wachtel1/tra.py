@@ -1,0 +1,5 @@
+url = "https://api.cognitive.microsofttranslator.com/"
+apiKey = ""
+location = "global"
+warningHasKey = "trapy found a built-in Microsoft Translator API configuration. If you wish to override the built-in configuration and use your API key, enter your API key in this window."
+warningNoKey = "trapy can't find the built-in configuration for Microsoft Translator API. trapy will use these settings to connect to the Microsoft Translator API."
