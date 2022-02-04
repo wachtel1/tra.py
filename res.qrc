@@ -4,6 +4,5 @@
         <file>fonts/NotoSans-Regular.ttf</file>
         <file>fonts/NotoSans-Bold.ttf</file>
         <file>fonts/NotoSans-Italic.ttf</file>
-        <file>fonts/Pushster-Regular.ttf</file>
     </qresource>
 </RCC>

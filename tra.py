@@ -1,7 +1,6 @@
 import os
 import sys
 import res
-import ast
 import microsoftranslate_config
 import libretranslate_config
 import formatHelper
@@ -1198,9 +1197,6 @@ def main():
     app = QApplication(sys.argv)
     font_dir = ":/fonts"
     load_fonts_from_dir(os.fspath(font_dir))
-    # qss = "style.qss"
-    # with open(qss, "r") as style:
-    #     app.setStyleSheet(style.read())
 
     app.setStyleSheet(styleHelper.constructStyleSheet(
         settings["visuals"]["borderRadius"], settings["visuals"]["background"], settings["visuals"]["textBackground"], settings["visuals"]["text"], settings["visuals"]["buttonText"], settings["visuals"]["buttonHover"], settings["visuals"]["buttonClicked"]))
