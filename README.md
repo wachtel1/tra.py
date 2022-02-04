@@ -1,5 +1,6 @@
 # tra.py
 Performance-oriented and highly customizable GUI client for translation APIs.
+![image](https://user-images.githubusercontent.com/89310925/152538329-04a351ec-76e3-4f64-a4cd-f26cf374c20c.png)
 
 ## Supports:
 - Google Translate (uses https://github.com/ssut/py-googletrans)
