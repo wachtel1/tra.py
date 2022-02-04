@@ -13,6 +13,7 @@ Performance-oriented and highly customizable GUI client for translation APIs.
 - Separate macro for formatting the input text
 - Multiple format options to automate input text clean up and formatting
 - Language pairs (source-target) to never change the target language manually again
+- Customizable colors
 
 ## Plans:
 - [ ] Test and release for Linux.
