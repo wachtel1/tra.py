@@ -7,9 +7,11 @@ Performance-oriented and highly customizable GUI client for translation APIs.
 - Microsoft Translator API (requires an API key)
 
 ## Plans:
-- Add Google Translate API.
-- Make the path to store the configuration file customizable.
-- Check the specified languages format and warn user that the language was not found.
+- [ ] Test and release for Linux.
+- [ ] Test and release for Mac OS.
+- [ ] Add Google Translate API.
+- [ ] Make the path to store the configuration file customizable.
+- [ ] Add check for languages and warn user if the language was not found.
 
 ## How to use
 Type / to open the cheatsheet.
@@ -30,4 +32,4 @@ Open your home folder and delete trapy.config file to reset the configuration.
   ```
   pyinstaller --onefile --windowed tra.py
   ```
-- Make sure to store the default.config file in the same folder as the resulting executable.
+- Make sure to store the default.config file in the same folder as executable.
