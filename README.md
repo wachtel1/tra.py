@@ -7,6 +7,13 @@ Performance-oriented and highly customizable GUI client for translation APIs.
 - LibreTranslate API
 - Microsoft Translator API (requires an API key)
 
+## Features:
+- Multiple macro
+- Global shortcuts to run macro or paste the text from the clipboard
+- Separate macro for formatting the input text
+- Multiple format options to automate input text clean up and formatting
+- Language pairs (source-target) to never change the target language manually again
+
 ## Plans:
 - [ ] Test and release for Linux.
 - [ ] Test and release for Mac OS.
