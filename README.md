@@ -13,4 +13,4 @@ type / to open the cheatsheet
 type C to open the configuration editor
 
 ## it broke
-open the ~/.config/ and delete trapy.config file to reset the configuration
+open your home folder and delete trapy.config file to reset the configuration

@@ -17,7 +17,7 @@ def openConfigFile(configPath):
 
 
 def getConfigPath():
-    return Path(str(Path.home()) + "/.config/trapy.config")
+    return Path(str(Path.home()) + "/trapy.config")
 
 
 def readDefaultConfig():
