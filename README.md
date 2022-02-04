@@ -1,2 +1,16 @@
 # tra.py
- performance-oriented GUI client for translator APIs
+performance-oriented and customizable GUI client for translator APIs
+
+## supports:
+- Google Translate (uses https://github.com/ssut/py-googletrans)
+- LibreTranslate API
+- Microsoft Translator API (requires an API key)
+
+## how to use
+type / to open the cheatsheet
+
+## how to config
+type C to open the configuration editor
+
+## it broke
+open the ~/.config/ and delete trapy.config file to reset the configuration
