@@ -16,6 +16,8 @@ Performance-oriented and highly customizable GUI client for translation APIs.
 - Customizable colors
 
 ## Plans:
+- [ ] Make it readable on 4k displays.
+- [ ] Fix bugs.
 - [ ] Test and release for Linux.
 - [ ] Test and release for Mac OS.
 - [ ] Add Google Translate API.
