@@ -1,7 +1,7 @@
 import PyInstaller.__main__
 import os
 
-cmd = "echo hello world"
+cmd = "echo ##teamcity[blockOpened name='Python run in Venv']"
 os.system(cmd)
 
 PyInstaller.__main__.run([
